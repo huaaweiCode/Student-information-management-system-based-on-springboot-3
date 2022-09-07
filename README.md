@@ -55,11 +55,6 @@
 
 ![角色控制2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506220304.jpg)
 
-## 扫描下方，回复 “学生3 ” ，以获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220515101228.png)
-
-
 
 
 
